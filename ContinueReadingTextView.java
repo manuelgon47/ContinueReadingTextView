@@ -1,4 +1,4 @@
-package com.businessdecision.kayoo.custom;
+package com.your.package.custom;
 
 import android.content.Context;
 import android.content.res.TypedArray;
